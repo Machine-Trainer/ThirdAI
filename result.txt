@@ -1,0 +1,64 @@
+Thank you for sharing your resume. I have some suggestions for you:
+
+1. First, you can start your resume with a summary section which should include some lines about your professional background, technical skills, and achievements.
+
+2. You should mention your work experience in the reverse-chronological order. So, in your case, I would suggest starting with your internship at TigerGraph, then move to your current job at JoinedPrice Technologies. This would make it easier for the hiring managers to see your latest job experience and know what you are currently working on.
+
+3. In the description of your work experience, try to quantify your accomplishments by listing specific projects you worked on and highlighting the outcomes you achieved. For example, "Developed monitoring Angular component for Kafka streaming service that improved service efficiency by 20%" or "Built Resume Editor interface using VueJS that helped users to build resumes efficiently."
+
+4. Try to customize your resume for the job you are applying for. For instance, if you are applying for a Full-Stack Developer position, provide more details about your Full-Stack project experience.
+
+5. You can also add some bullet points under each course project that highlights specific skills you learned, tools you used, and problems you solved.
+
+6. Lastly, consider adding a section about your extracurricular activities, especially if they relate to software development or computer science. This will help highlight your passion for the field.
+
+Here's a tailored version of your resume:
+
+WEIJIAN ZENG
++1 7136093652 (US?| weijianzengjob@gmail.com | https://www.linkedin.com/in/weijian-zeng-11644114b/
+
+SUMMARY
+Experienced software development engineer with a background in computer science and mathematics. Proficient in several programming languages, operating systems, and tools. Achievements include designing and maintaining Architecture for REST API, developing a new visualization library for ETL data transformation, and creating a chat application with real-time messaging capabilities. Seeking a Full-Stack Developer position.
+
+EDUCATION                                                                                         
+Rice University                                                                            Houston, TX                                                                
+M.S in Computer Science.                                                             Aug. 2021- Dec. 2022
+* Relevant Coursework: Object Oriented Programming, Computer Vision, Artificial Intelligent, Web Development.
+
+Rensselaer Polytechnic Institute (RPI)                                                           Troy, NY                                                                
+B.S. in Computer Science and Mathematics?Magna Cum Grade?GPA:3.7/4.0                 Jan. 2019 Ð May. 2021                                                              
+* Relevant Coursework: Machine Learning from Data, Principle of Software, Software Development and Documentation.
+
+EXPERIENCE                                                                      
+JoinedPrice Technologies (SOCA Product Team)                                                    Redmond, WA   
+Software Development Engineer Internship                                                      Feb. 2023 Ð Present
+* Design and maintain Microservice architecture for REST API using SpringBoot and Kafka.
+* Utilizing Prompt Engineering and GPT features to build an ETL pipeline for resume information.
+* Built Resume Editor interface using VueJS and integrated service API to help users build resumes.
+* Collaborated with marketing team to improve website SEO by writing Python Selenium automation script.
+* Responsible for developing new backend features using Java and deployed them through Tomcat and Amazon EC2.
+* Develop and maintain new SpringBoot backend feature to utilize ChatGPT API for personalized resume experiences.
+
+TigerGraph (Graph Studio Application Team)                     							 Redwood City, CA   
+Software Development Engineer Internship                                                   May. 2022 Ð Aug. 2022
+* Developed Typescript reusable components and services to consume REST API using Angular Components.
+* Developed a new visualization library for ETL data transformation and extends supports for AWS S3 and Google Storage.
+* Developed monitoring Angular component for Kafka streaming service to display service status and error message to user.
+* Migrated the monitoring component in AdminPortal, TigerGraphÕs system administration tool, to a new system metrics API, improving overall system performance and reliability.
+* Communicated technical problems and solutions effectively with both business and technical stakeholders, resulting in improved project outcomes.
+
+PROJECTS                                                                     
+Full-Stack Developer at Rice University                                                Sept. 2021 Ð Dec. 2021
+* Designed and developed a chat application with real-time messaging capabilities using WebSockets and Spark framework. Built Java applications using Maven and deployed Java applications through Application servers.
+
+Full-Stack Developer at Rice University                                                Sept. 2021 Ð Dec. 2021
+* Designed and developed a photo sharing application modeled after Instagram. Developed Interactive Screen using ReactJS and maintained the state with Redux architecture implementation.
+* Developed the backend server utilizing the NodeJS and executed CRUD operations between NodeJS and MongoDB. Designed Reducers and Action Dispatchers to maintain common updated state around all the components using Redux.
+
+Full-Stack Developer at Rice Chinese Students and Scholar Association (RCSSA)                     Aug. 2022 Ð Dec. 2022
+* Re-designed the Code structure of RCSSA website making it more maintainable. Utilized Swift to develop an iOS application that enables student members to verify event tickets submitted by participants.
+
+SKILLS
+* Tool: Git, Linex/Unix Terminal, Heroku, Docker, MongoDB.
+* Language: Python, C++, Java, Typescript, Swift, Golang, Javascript, HTML, CSS.
+* Framework: Pytorch, NUMPY, Pandas, Spring Boot, Angular, React, Vue, Flask, Echo, Gin, NodeJS.
